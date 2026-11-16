@@ -23,6 +23,3 @@ This repository holds all my Operating Systems assessment submissions in one pla
 | 4 | [04-Linux-Systems-Engineering-Challenge](04-Linux-Systems-Engineering-Challenge) | CA-5, Challenge L6 | CPU affinity investigation on Linux |
 | 5 | [05-Lab-Observation-Report](05-Lab-Observation-Report) | Laboratory Record | Chapters 1–21 lab experiments |
 
-## How to evaluate
-
-Open the PDF in each folder. The READMEs summarise each report, but the PDFs are the submitted work and include the full method, code, raw data and references.
